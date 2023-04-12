@@ -3,6 +3,7 @@ require 'io'
 require 'avail'
 require 'inventory'
 require 'bezier'
+require 'sprite'
 
 -- title:  Vase
 -- author: verysoftwares
@@ -1180,4 +1181,4 @@ if DEBUG then
     x=13-3;y=3;mset(x,y,33);mset(x,y-1,60);mset(x,y-2,46);rooms[1].visited=false;cur_room=rooms[2];cur_room.visited=true;cur_room.x=240-rooms[2].mw*8-64+24+6-10
 end
 
-save_room()
+--save_room()
