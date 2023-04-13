@@ -1,5 +1,5 @@
 require 'utility'
-require 'io'
+require 'file-io'
 require 'avail'
 require 'inventory'
 require 'bezier'
