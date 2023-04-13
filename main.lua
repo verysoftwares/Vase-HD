@@ -4,6 +4,7 @@ require 'avail'
 require 'inventory'
 require 'bezier'
 require 'sprite'
+require 'TIC'
 
 -- title:  Vase
 -- author: verysoftwares
