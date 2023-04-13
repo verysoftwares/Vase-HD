@@ -6,7 +6,7 @@ end
 function mset(x,y)
 end
 
-function fget(f)
+function fget(sp,f)
 end
 
 function fset(sp,f)
